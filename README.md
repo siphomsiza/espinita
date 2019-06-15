@@ -16,6 +16,7 @@ This project is heavily based in audited gem.
 In your gemfile
 
 ```ruby
+gem "request_store"
 gem "espinita"
 ```
 
